@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-AI
+# Tic-Tac-Toe-AI <img src="https://cdn0.iconfinder.com/data/icons/web-ui-vol-4/64/tic_tac_toe-512.png" height="35px" width="35px"/>
 A Tic-Tac-Toe game made in <b>Pygame</b> where the game plays by itself using <b>AI</b>!
 
 ## Overview
