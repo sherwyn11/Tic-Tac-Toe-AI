@@ -30,6 +30,7 @@ git clone <this_repo_url>
 ```
 2. Download the required Python packages
 ```bash
+cd Tic-Tac-Toe-AI
 pip install -r requirements.txt
 ```
 3. Run the Python script
