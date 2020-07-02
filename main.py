@@ -77,6 +77,7 @@ def minimax(depth, player_type):
     '''
     Run the Mini-Max algorithm 
     '''
+    
     global grid, count
 
     score = evaluate_move()
