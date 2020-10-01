@@ -208,7 +208,7 @@ def drawMove(board, boardCol, boardRow):
     
 def check_if_won(board):
     '''
-    Check if X/O have won  
+    Check if X/O has won  
     '''
 
     global grid, winner, running, won
